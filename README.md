@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wolfw3
+- 👋 Hi, I’m Vivian Rose, aka VioletRose
 - 👀 I’m interested in networking, Node.js, and Docker
 - 💞️ I’m looking to collaborate on my Minecraft Fabric Mods
 - 📫 How to reach me:
-- Email: nonagonfinity@protonmail.com
+- Email: VioletRose@VeniVidiVivi.xyz
 - Twitter: alkaline_dreams

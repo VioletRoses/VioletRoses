@@ -4,4 +4,4 @@
 - Email: VioletRose@VeniVidiVivi.xyz
 - Discord: violetRose()#6893
 
-[![VioletRoses' GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletRoses)](https://github.com/anuraghazra/github-readme-stats)
+[![VioletRoses' GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletRoses&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

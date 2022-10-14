@@ -5,3 +5,5 @@
 - Discord: violetRose()#6893
 
 [![VioletRoses' GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletRoses&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VioletRoses&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
